@@ -1,17 +1,17 @@
 class article:
-    interests= {'interest' : 0.0}
-    Relevance=0.0
-    articleSource=""
-    SourceType=0
-    textSummary=""
+    def __init__(self):
+        self.interests= {'interest' : 0.0}
+        self.Relevance=0.0
+        self.articleSource=""
+        self.SourceType=0
+        self.textSummary=""
 
     def addInterest(self, interest, likeness):
-        interests[interest] = likeness
+        self.interests[interest] = likeness
 
     def estimateRelevance(self, ):
         currentRelevance=0.0
-
-        Relevance = currentRelevance
+        self.Relevance = currentRelevance
 
     def parseText(self, sourcePath):
         #TODO call the class
