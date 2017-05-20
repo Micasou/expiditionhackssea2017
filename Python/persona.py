@@ -1,9 +1,6 @@
 class persona:
-    def __init__(self):
-        this.articles = [] #list
-        this.preference = thePreference
-
-    def __init__(self):
+    def __init__(self, theName):
+        this.name = theName
         this.articles = []  #list
         this.preference = {"string", 0.0} #map
 
