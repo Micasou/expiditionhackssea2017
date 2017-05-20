@@ -1,0 +1,37 @@
+Biggest AWS Security Risks and What You Can Do
+
+Amazon Web Services (AWS) is one of the more popular cloud providers and is poised for continued growth. There are several reasons for this, not the least of which being its overall partner ecosystem and its long-standing reputation (AWS has been around for more than a decade, longer than most of its competitors). 
+
+However, even though you have heard how great the cloud, particularly AWS, is for business, you need to recognize the potential security risks. Although AWS is generally considered one of the most security cloud environments available, it isn't immune to security threats or data breaches, having experienced some serious security problems in recent years.
+
+MORE: Microsoft Azure vs. Amazon Web Services: Cloud Comparison
+
+"The AWS cloud, managed correctly, can be more secure that any stand-alone data center in the world," said Marcus Turner is the chief architect and founder of Enola Labs, a software development company in Austin, Texas. However, most small businesses aren't asking the right questions about security specific to their needs and their use of AWS. And one of those questions not being asked is about who handles the security responsibilities.
+
+
+AWS Isn't Fool-Proof
+
+"The biggest security risks with AWS, especially for small businesses, is a lack of understanding where security responsibilities begin and end with the provider," said Ahmed Abdalla principal technologist at ADAPTURE, an IT consulting services provider in Atlanta. "There is a common misconception that AWS handles more security in their infrastructure services than is actually the case." AWS handles all security and management for its platform and software services, but security responsibilities are often unclear to organizations that don't have experience designing or working with the different AWS cloud solutions. That's why company decision makers need to ask how security in cloud solutions will be handled before migrating any data.
+
+Another risk with AWS is lack of security configuration within the areas that an AWS consumer is responsible to manage. "This may include infrequent or insufficient patching of systems, poor firewall or network security implementation," said Abdalla. Again, it is a matter of understanding upfront who handles these basic maintenance issues.
+
+Compliance issues create a different type of security risk. For companies that use AWS to run e-commerce sites, for example, they must follow PCI compliance regulations, but there may be misunderstandings of who is responsible to cover these regulations.
+
+Many data breaches come through accounts that should have been deleted or deactivated long before the breach instance. According to John Kronick, director of cybersecurity services at PCM, Inc, a direct marketing company in El Segundo, Calif., you should know if there are user credentials in the system long after a worker has terminated services with your company. AWS provides a management console to list all users in their Identity and Access Management console, giving you an easy way to eliminate any unauthorized users.
+
+How to Protect Your Business
+
+Experts agree that AWS is one of the most secure cloud options available, but, like many cloud solutions, security within AWS is depends on how technically savvy the small business user is, or what advice they may have access to.
+
+"We suggest cloud training, cloud migration planning and security consultation to clients considering cloud migrations to minimize the likelihood of issues, and to ensure that clients are well informed prior to utilizing cloud services," said Abdalla.
+
+Other steps the small business should take to lower the security risks in the AWS cloud include:
+
+Data encryption
+Limit the sensitive data stored in the cloud
+Meet compliance regulations
+Know who has access to the data
+Use multi-factor authentication
+During the past few years, cloud security has become a decreasing concern among most business, small and large, as the providers have had a decent track record of securing their infrastructure. The hurdle is to truly understand what you're responsible for securing the cloud infrastructure you utilize in AWS.
+
+"The misconception that all security responsibilities belong to the provider has been wide-spread, potentially leaving clients vulnerable," said Abdalla. Ensure that you're aware of your responsibilities to protect your own data and infrastructure, create a plan to manage risks and maintain the infrastructure against the potential risk, and AWS will be a safe and secure environment for your cloud computing needs.
