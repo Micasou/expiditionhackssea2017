@@ -13,22 +13,5 @@ class article:
 
         Relevance = currentRelevance
 
-    def parseText(self, source, sourceType):
-        if (sourceType == "website"):
-            parseWebsie(source)
-        elif (sourceType == "rawText"):
-            print ""
-        elif (sourceType == "localPath"):
-            print ""
-
-    def parseWebsie(self, source):
-        #TODO get raw html
-        print ""
-
-    def parseRaw(self, rawText):
-        #TODO parse raw
-        print ""
-
-    def parseFile(self, filePath):
-        #TODO open file path
-        print ""
+    def parseText(self, sourcePath):
+        #TODO call the class
