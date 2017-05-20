@@ -1,0 +1,3 @@
+static public class main {
+
+}
