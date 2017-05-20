@@ -1,17 +1,23 @@
 class article:
-    def __init__(self):
-        self.interests= {'interest' : 0.0}
-        self.Relevance=0.0
-        self.articleSource=""
-        self.SourceType=0
-        self.textSummary=""
+    def __init__(self, articleText):
+        self.tagMap= {'interest' : 0.0}
+        self.Relevance= estimateRelevance(self, articleText)
+        self.articleSource= ""
+        self.textSummary= getSummary(self, articleText)
+        self.timeStamp= getTimeStamp(articleText)
+        getTags(self, articleText)
 
-    def addInterest(self, interest, likeness):
-        self.interests[interest] = likeness
+    def getTimeStamp(self, articleText):
+        print "TODO finish"
 
-    def estimateRelevance(self, ):
+    def estimateRelevance(self, articleText ):
         currentRelevance=0.0
+        print "TODO finish"
         self.Relevance = currentRelevance
 
-    def parseText(self, sourcePath):
-        #TODO call the class
+    def getSummary(self, articleText ):
+        print "TODO finish"
+
+    def getTags(self, articleText):
+        self.tagMap["IMPLEMENT"] = "ADD MORE STUFF"
+        print "TODO finish"
