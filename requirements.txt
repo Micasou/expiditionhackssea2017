@@ -1,5 +1,0 @@
-NLTK
-
-http://www.nltk.org/install.html
-
-Kivy
