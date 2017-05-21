@@ -21,7 +21,7 @@ class article:
         self.relevance = currentRelevance
 
     def getSummary(self, articleText):
-        return self.articleSource[0:50]
+        return str(self.articleSource[0:100]) + "..."
 
     def getTags(self, articleText):
         for np in self.articleSource.noun_phrases:
