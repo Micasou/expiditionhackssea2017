@@ -1,0 +1,46 @@
+A Guide To DDoS Detection And Attack Mitigation Tools
+
+Of all the attacks that can be coordinated against a target, one of the easiest to attempt successfully is a Denial of Service (DoS) attack. This has a lot to do with the brute force nature of these attacks. At the simplest level, DoS attacks require a device with network connectivity to send a large amount of traffic towards another network connected device. At their most complex, these types of attacks become Distributed DoS (DDoS) attacks with multiple attacking devices coordinated via a distributed control structure.
+
+Many different devices handle various parts of mitigating these types of attacks, some of which include Firewalls (Traditional and Next Generation), Intrusion Prevention Systems (Traditional and Next Generation), and Web Application Firewalls (WAF). Some of these devices even include the main components of DoS/DDoS mitigation depending on the specific vendor. In this article we will focus on the functions specifically built to mitigate DoS and DDoS attacks and the appliances that are designed for this mitigation. 
+
+
+The Prevalence Of Denial Of Service Attacks
+
+Because a DoS attack is so simple it can be performed by anyone with a rudimentary amount of technical knowledge. This simplicity has now been extended to DDoS attacks via botnet rentals and Website Booter services. This makes almost anyone who has a public Internet connection a target for potential attacks. For companies that do business primarily on the Internet this is especially concerning. When surveyed, 40 percent of businesses say that DDoS attacks are a growing threat that they see on their networks, according to Neustar's 2015 DDoS Attacks & Protection Report. Of those companies that are attacked, 85 percent also report that they are attacked multiple times, with 30 percent of these being attacked more than 10 times over a year, according to Neustar survey. 
+
+In response to the elevated risk of DoS attacks, 51 percent of those companies surveyed report that they have increased their investments in DDoS solutions (Neustar, 2015). Of those surveyed, 26 percent use a DDoS point appliance, which is the focus of this article, but this is not the only mitigation product available to organizations. When selecting a DDoS solution, the best option is to combine multiple solutions (hybrid approach) to cover all of the potential attack points in a network. As noted, there are multiple products that offer different DDoS mitigation pieces as part of their solutions (NGFW, NFIPS, WAF). To provide the most comprehensive DDoS protection the design of these solutions should be combined with DDoS threats in mind. 
+
+DDoS Attack Types
+
+According to NSS Labs' Distributed Denial of Service (DDoS) Prevention: Test Methodology report, there are three primary categories of DDoS attacks:
+
+Volumetric
+Protocol
+Application 
+A volumetric attack is the simplest of the DDoS attack types. Its goal is to flood a target with as much traffic as possible to prevent it from operating normally. To be successful, the volumetric DDoS attack only needs to take up enough of the target's Internet connection capacity to affect legitimate operations; a really successful attack will be able to affect most or all of the target's clients. Some common examples of a volumetric attack are Internet Control Message Protocol (ICMP)/User Datagram Protocol (UDP) packet floods, Spoofed packet floods and malformed packet floods.
+
+A protocol attack is a little different and is focused on exhausting the protocol resources of a target. Some common protocol DDoS attack examples include TCP SYN/ACK/RST/Connection floods, TCP state exhaustion and TCP windowing attacks. This type of attack does not require that the attacker consume most or all of the target's available bandwidth, only that it consumes the target's specific resource.
+
+An application attack is focused further up the chain with a specific application resource. The application DDoS attack is focused more on specific vulnerabilities while the others are targeted at more general resources that exist on many devices. What this means is that this style of attack does not need to be as coordinated as the other two. Some common examples include HTTP GET/POST Floods, DNS amplification, and SSL exhaustion attacks.
+
+DDoS Protection Implementation Methods
+
+There are three primary methods of implementing DDoS protections:
+
+DDoS Protection service (cloud-based, also referenced as a scrubbing center)
+Content Delivery Network (CDN)
+On-site equipment
+When using a DDoS protection service, all or most of the traffic going to and from a target network is routed through the protection services networking equipment. This service "scrubs" all of the potential threat DDoS traffic and forwards all valid traffic to the target's network. The problem is that when a target routes all of its traffic through a separate entity (like a protection service provider) it can add some complexity to the implementation of specific features used by many enterprises.
+
+The use of a CDN distributes the content of the target, this makes it hard to truly ever bring down the service as it exists via multiple sources. This type of implementation does require that the content exists in the CDN and thus requires some additional steps to manage the content to and from the original source and the CDN. 
+
+On-site equipment is currently the most implemented DDoS solution, both exclusively and in combination with other solutions. This equipment includes any device that mitigates any portion of the DDoS attack (e.g. FW, IPS, DDoS specific appliances). This includes a large variety of different potential solution combinations, but the main idea is that the organization itself is typically in charge of maintaining and managing the attack if and when it happens. 
+
+DDoS Protection Tools
+
+Summary
+
+With these DDoS styles of attacks continuing to get easier and with the amount of residential bandwidth continuing to grow at a fast rate, botnets will continue to become more and more powerful with fewer exploited individual bots. Any company that does business on the Internet or has connectivity via the Internet needs to take these types of attacks seriously. This means that more and more organizations need to have a DDoS solution in mind as they continue to build out their networks and security systems. 
+
+As has been proven over the last several years, the companies that have taken DDoS threats lightly have been quickly reminded just how much these types of outages can cost. On the next page we dive deeper into the top three DDoS appliance solutions.

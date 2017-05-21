@@ -1,0 +1,28 @@
+How to Prepare for a Data Breach
+
+For many businesses, accessing files away from the office is simply the way their business works. According to National Cyber Security Alliance/Symantec, 66 percent of small businesses depend on the Internet for daily operations. Employees work off-site or travel, but everyone still needs to access the company's network. But it's far more important to protect your data.
+
+More access can be dangerous
+
+While having remote access to company files and information gives you flexibility, it can also make you vulnerable to cyberattacks — and cyberattacks are on the rise. Symantec reports a steady rise in attacks on businesses with less than 250 employees, and in its 2016 Internet Security Threat Report, it says that 1 in 40 small business are at risk of attack each year, compared to one in two large businesses.
+
+Smaller businesses typically have fewer defense resources than large enterprises, making them an attractive target for hackers. Cybercriminals, looking for a way into a large organization, often attack a small business partner, believing that its defenses won't be as strong. And they are often right. Hackers accessed Target’s network by stealing a vendor's credentials.
+
+
+Ways to secure access
+
+Network and other types of cyberattacks are very familiar to Bill Wade, owner of an infrastructure consulting and content development service for security and cloud services. "We've had as many as 27 log-in attempts by bots in just one minute to our network," he explains.
+
+Securing remote access involves two areas of network security — data encryption and secure network access. Encrypting data packets as they travel from one location to another ensures that hackers won't be able to access the data even if they retrieve the packets.
+
+The other area is network access. Network access is controlled by credentials, a combination of username and password. "On our network, and everyone else's, bots are constantly trying to guess credentials using common usernames and passwords," says Wade. "That's why username and password policies are so important."
+
+Prevention Techniques to Stay Secure
+
+The ESET security community notes that protection is an on-going process, not a project. Wade agrees. He recommends keeping up with prevention techniques provided by your cloud service provider, staying current with software patches for on-premises software, and adhering to security best practices.
+
+"You need to be aware of all the new features and functionalities that your services provide. In the past, there were instances where I couldn't log onto my work account because of multiple log-in attempts. My business uses a combination of on-premises and cloud services. The directory that controls network access is on-premises. We made modifications to our remote access service so that only a minimal number of log-in attempts could be made before the remote service would stop accepting credentials for a user. Once in place, it doesn't block the account out of the domain server; it just blocks access from the remote server, blocking bot activity. Spend the time to learn new features. It's worth it."
+
+Cyberattacks are costly, especially to small businesses. The Denver Post reported that small and mid-sized businesses are the target of 62 percent of all cyberattacks, about 4,000 per day, and that 60 percent of small companies that suffer a cyberattack were out of business within six months.
+
+Other pro-active and defenses measures to safeguard your business include encrypting sensitive and important data, educating users, having a strong network and password policy that's regularly reviewed and update. Most importantly, making security a management priority and investing in the resources protects your business and your reputation.

@@ -1,17 +1,30 @@
 class article:
-    interests= {'interest' : 0.0}
-    Relevance=0.0
-    articleSource=""
-    SourceType=0
-    textSummary=""
+    def __init__(self, articleText, articleName):
+        self.dictionary = PyDictionary()
+        self.tagList= []
+        self.articleTitle= articleName
+        self.articleSource= TextBlob(articleText)
+        self.textSummary= self.getSummary(articleText)
+        self.relevance= self.estimateRelevance(articleText)
+        self.timeStamp= self.getTimeStamp()
+        self.getTags(articleText)
 
-    def addInterest(self, interest, likeness):
-        interests[interest] = likeness
+    def getTimeStamp(articleText):
+        print("TODO finish")
 
-    def estimateRelevance(self, ):
+    def estimateRelevance(self, persona):
         currentRelevance=0.0
+        #print "TODO finish"
+        self.relevance = currentRelevance
 
-        Relevance = currentRelevance
+    def getSummary(self, articleText):
+        return self.articleSource[0:50]
 
-    def parseText(self, sourcePath):
-        #TODO call the class
+    def getTags(self, articleText):
+        for np in self.articleSource.noun_phrases:
+            self.tagList.append(str(np))
+            for val in (str(np).split()):
+                synList = self.dictionary.synonym(val)
+                if synList == []:
+                    self.tagList.extend(synList)
+        return self.tagList

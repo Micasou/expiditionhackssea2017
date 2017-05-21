@@ -1,0 +1,17 @@
+Webroot Antivirus Bricked Tons of Managed PCs
+
+EDITOR'S NOTE: Webroot has released a solution and a statement saying "Our entire Webroot team has been working around the clock on this repair and is implementing additional safeguards to prevent this from happening in the future. We apologize to our customers affected and appreciate their patience during this challenging issue." 
+
+The statement goes on to say "Webroot has issued a standalone repair utility that provides streamlined fix for our business customers. This is in addition to the manual fix issued Monday, April 24. For access to the repair utility, business customers should open a ticket with Webroot support, or reply to an existing support ticket related to this issue. The instructions we shared with our consumer yesterday are still the best solution for these users."
+
+It may be a long night for many IT administrators. An update to Webroot antivirus mistakenly flagged Windows as malware, which led to a disaster among millions of managed systems all over. The antivirus program started falsely marking files as W32Trojan.Gen, also known as generic malware, on Tuesday, April 24. The change led quarantine for some crucial system files for Windows. 
+
+Webroot's community site is up to 18 pages long, filled with some angry and distraught comments. According to SwiftOnSecurity, the issue was only live for 13 minutes, but that was plenty of time to cause havoc.  
+
+MORE: Best Antivirus Software for Business
+
+Also part of the update, Webroot was marking Bloomberg and Facebook as phishing sites, which meant users can't access those pages. Webroot claims to have more than 30 million users. 
+
+The company has issued a statement: "On April 24, Webroot experienced a technical issue affecting some business and consumer customers. We are in the process of creating a fix, but in the meantime, small business customers can follow instructions posted in the Webroot Community to address the issue." 
+
+At least one users reported that uninstalling Webroot, restoring quarantined files from a backup drive and then reinstalling Webroot appears to fix the problem. Webroot has also recommended that users log into the Webroot online console and manually create override rules for all erroneously blocked files, but that solution can take up to 24 hours and doesn't work for managed service providers (MSPs).  

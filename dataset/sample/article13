@@ -1,0 +1,235 @@
+ISC)2 Certification Guide: Overview And Career Paths
+
+(ISC)2 offers vendor-neutral security certifications with specializations in security architecture, security engineering and security management. This guide will help you get started with (ISC)2's certification ladders and career paths.
+
+
+
+The International Information Systems Security Certification Consortium, Inc., or (ISC)2, usually pronounced "eye-ess-cee squared," is a highly respected, not-for-profit organization that provides security-related education and vendor-neutral certifications. (ISC)2 was formed in 1989 as a consortium between the Special Interest Group for Computer Security (SIG-CS) and several other organizations whose goal was to standardize a vendor-neutral security certification program. Today, (ISC)2 is based in the United States with offices in London, Hong Kong and Tokyo, with members from more than 160 countries. The core of each (ISC)2 certification program is its Common Body of Knowledge (CBK), which is a framework for defining industry standards and security principles.
+
+(ISC)2 Certification Program Overview
+
+The (ISC)2 Certification Program offers seven core security credentials:
+
+Systems Security Certified Practitioner (SSCP)
+Certified Information Systems Security Professional (CISSP)
+Certified Authorization Professional (CAP)
+Certified Secure Software Lifecycle Professional (CSSLP)
+Certified Cyber Forensic Professional (CCFP)
+HealthCare Information Security and Privacy Practitioner (HCISPP)
+Certified Cloud Security Professional (CCSP)
+CISSP credential holders can further specialize and obtain the following certifications:
+
+Information Systems Security Architecture Professional (CISSP-ISSAP)
+Information Systems Security Engineering Professional (CISSP-ISSEP)
+Information Systems Security Management Professional (CISSP-ISSMP)
+IT professionals who are not able to meet the work requirements can qualify for the Associate of (ISC)2.
+
+The organization is perhaps best known for its top-tier CISSP credential. Of the roughly 125,000 certifications that (ISC)2 has granted to professionals around the world, the majority of those certifications are for the CISSP credential.
+
+A typical (ISC)2 certification ladder begins with the SSCP certification. If you pass the SSCP exam but don't have the required work experience, you are granted the Associate of (ISC)2 credential. (The same applies if you pass the CAP, CSSLP, CCFP, HCISSP, CCSP or CISSP exams and don't have the required work experience.) However, candidates who achieve the SSCP generally move on to the CISSP, and then specialize in security architecture (CISSP-ISSAP), security engineering (CISSP-ISSEP) or security management (CISSP-ISSMP).
+
+(ISC)2 certifications are considered career-boosters and can pay off financially. According to the 2015 (ISC)2 Global Information Security Workforce Study (the latest to date), (ISC)2 members earn 35 percent more, on average, than their non-certified counterparts. And the demand for (ISC)2 certification is likely to remain solid. The informal job board survey we performed for our Best Information Security Certifications for 2017 article indicates a whopping 44,000-plus job postings (a snapshot of a single day) in which employers prefer or require CISSP certification, and those numbers have remained high during the last few years. Considering that the expected shortfall of qualified information security professionals could reach 1.5 million (globally) by 2020, an (ISC)2 certification seems ever more pertinent to interested IT professionals, if not an outright ticket to ongoing and interesting employment.
+
+MORE: IT Career Paths & Certification Guides
+ MORE: Best IT Certifications 
+MORE: Best IT Training
+
+Associate Of (ISC)2
+The Associate of (ISC)2 credential is aimed at professionals who are entering the security field (think students and persons changing their careers) but do not yet have the years of experience that are required to earn a full (ISC)2 certification.
+
+To qualify for the Associate of (ISC)2 you must:
+
+Subscribe to the (ISC)2 Code of Ethics
+Pass the SSCP, CAP, CISSP, CCFP, CSSLP, HCISPP or CCSP certification exam
+To maintain the Associate of (ISC)2 credential, you'll need to pay an annual maintenance fee, and obtain 15 continuing professional education (CPE) credits annually.
+
+Systems Security Certified Practitioner (SSCP)
+Many security professionals begin their careers by obtaining the Systems Security Certified Practitioner (SSCP) certification. The SSCP recognizes candidates who understand fundamental security concepts, know how to use basic security tools, and can monitor systems and maintain countermeasures to prevent security incidents.
+
+To qualify for the SSCP credential, you must:
+
+Have at least one year of relevant work experience in one or more of the SSCP CBK domains
+Achieve a minimum scaled score of 700 points on the certification exam
+Subscribe to the (ISC)2 Code of Ethics
+Complete an application endorsement form and have it endorsed by an (ISC)2 member
+The SSCP credential incorporates the following CBK domains:
+
+Access Controls
+Security Operations and Administration
+Risk Identification, Monitoring, and Analysis
+Incident Response and Recovery
+Cryptography
+Networks and Communications Security
+Systems and Application Security
+The SSCP credential is valid for three years. You can renew it by obtaining 60 continuing professional education (CPE) credits within the three-year period (20 CPE credits required each year). You must also pay an annual maintenance fee.
+
+Certified Information Systems Security Professional (CISSP)
+The Certified Information Systems Security Professional (CISSP) recognizes professionals who can architect, design, manage and control the security for an organization. Many IT security professionals consider the CISSP to be the most desirable certification in the industry, but that honor requires a great deal of experience and effort.
+
+To qualify for the CISSP credential, you must:
+
+Have at least five years of full-time relevant work experience in two or more of the CISSP CBK domains, or have four years of full-time relevant security work experience in two or more of the CISSP CBK domains along with a college degree or an (ISC)2 approved credential
+Achieve a minimum score of 700 on the certification exam, which contains 250 questions and lasts for six hours
+Subscribe to the (ISC)2 Code of Ethics
+Complete an application endorsement form and have it endorsed by an (ISC)2 member
+The CISSP credential incorporates the following CBK domains:
+Security and Risk Management
+
+Asset Security
+Security Engineering
+Communications and Network Security
+Identity and Access Management
+Security Assessment and Testing
+Security Operations
+Software Development Security
+The CISSP credential is valid for three years. You can renew it by obtaining 120 continuing professional education (CPE) credits before the certification expires (or retaking the exam). An annual maintenance fee is also required.
+
+CISSP Concentrations
+With the CISSP credential in hand, you can branch out into one or more concentrations:
+
+Information Systems Security Architecture Professional (CISSP-ISSAP)
+Information Systems Security Engineering Professional (CISSP-ISSEP)
+Information Systems Security Management Professional (CISSP-ISSMP)
+Each CISSP concentration requires candidates to have a minimum of two years of relevant security experience in the respective area (architecture, engineering or management). In addition, candidates must maintain their existing CISSP credential.
+
+The CISSP-ISSAP is geared toward chief security architects or analysts. It covers six CBK domains:
+
+Access Control Systems and Methodology
+Communications and Network Security
+Cryptography
+Security Architecture Analysis
+Technology Related Business Continuity Planning (BCP) and Disaster Recovery Planning (DRP)
+Physical Security Considerations
+The CISSP-ISSEP focuses on systems security engineering, in which security is defined and incorporated into information systems, business processes and so on. The credential incorporates four CBK domains:
+
+Systems Security Engineering
+Certification and Accreditation (C&A)/Risk Management Framework (RMF)
+Technical Management
+U.S. Government Information Assurance Related Policies and Issuances
+The CISSP-ISSMP aims at professionals managing enterprise-wide security. The credential incorporates five CBK domains:
+
+Security Leadership and Management
+Security Lifecycle Management
+Security Compliance Management
+Contingency Management
+Law, Ethics, and Incident Management
+Certified Authorization Professional (CAP)
+The Certified Authorization Professional (CAP) certification identifies enterprise system owners and security officers who authorize and maintain information systems, with a focus on balancing risk with security requirements and countermeasures. The CAP credential is aimed at the private and public sectors, including U.S. federal government agencies such as the State Department and the Department of Defense (DoD). Achieving the certification helps DoD personnel comply with the 8570 Mandate.
+
+To qualify for the CAP credential, you must:
+
+Have at least two years of experience in one or more of the CAP CBK domains (such experience must be in a paid, full-time capacity)
+Achieve a minimum scaled score of 700 points on the certification exam
+Subscribe to the (ISC)2 Code of Ethics
+Complete an application endorsement form and have it endorsed by an (ISC)2 member
+(ISC)2 recommends that CAP candidates have experience in IT security, systems administration, information assurance, risk management, database or systems development, and information security policy. Auditing experience is a plus, as is experience combing through National Institute of Standards and Technology (NIST) documentation.
+
+The CAP credential incorporates the following CBK domains:
+
+Risk Management Framework (RMF)
+Categorization of Information Systems
+Selection of Security Controls
+Security Control Implementation
+Security Control Assessment
+Information System Authorization
+Monitoring of Security Controls
+Like other (ISC)2 certifications, the CAP credential is valid for three years. You can renew it by passing the certification exam again or by obtaining 60 continuing professional education (CPE) credits before the certification expires (a minimum of 20 CPEs is required each year of the renewal cycle). An annual maintenance fee is also required.
+
+Certified Secure Software Lifecycle Professional (CSSLP)
+Software developers with an interest in cybersecurity and application vulnerabilities should check out the Certified Secure Software Lifecycle Professional (CSSLP) certification. This credential recognizes proficiency in web application security and the software development lifecycle (SDLC).
+
+To qualify for the CSSLP credential, you must:
+
+Have at least four years of software development lifecycle (SDLC) work experience that includes one or more of the CSSLP CBK domains, or three years of work experience in one or more of the CSSLP CBK domains plus a relevant four-year college degree in Information Technology (IT), Computer Science, or a related field
+Achieve a minimum scaled score of 700 points on the certification exam
+Subscribe to the (ISC)2 Code of Ethics
+Complete an application endorsement form and have it endorsed by an (ISC)2 member
+The CSSLP credential incorporates the following CBK domains:
+
+Secure Software Concepts
+Secure Software Requirements
+Secure Software Design
+Secure Software Implementation/Coding
+Secure Software Testing
+Software Acceptance
+Software Deployment, Operations, Maintenance and Disposal
+Supply Chain & Software Acquisition
+The CSSLP credential must be renewed every three years. To maintain the credential, you’ll need to obtain 90 continuing professional education (CPE) credits within the three-year period (a minimum of 30 CPEs is required each year of the three-year renewal cycle). An annual maintenance fee is also required.
+
+Certified Cyber Forensic Professional (CCFP)
+One of the latest certifications offered by (ISC)2 is the Certified Cyber Forensic Professional (CCFP). This credential recognizes professionals who have broad knowledge of cybersecurity, digital forensics, incidence response and the legal ramifications of investigations. They must also have experience with techniques involved with mobile forensics, cloud forensics, anti-forensics, e-discovery and similar areas of concern.
+
+To qualify for the CCFP credential, you must:
+
+Have at least six years of full-time relevant work experience in three of the six CCFP CBK domains (an approved forensic certification may substitute for one year of professional experience), or have a four-year college degree plus three years of full-time digital forensics or IT security experience in three of the six domains
+Achieve a minimum scaled score of 700 points on the certification exam
+Subscribe to the (ISC)2 Code of Ethics
+Complete an application endorsement form and have it endorsed by an (ISC)2 member
+The CCFP credential incorporates the following CBK domains:
+
+Legal and Ethical Principles
+Investigations
+Forensic Science
+Digital Forensics
+Application Forensics
+Hybrid and Emerging Technologies
+Recertification is required every three years to maintain the CCFP credential. You’ll need to pay an annual maintenance fee, and obtain 90 continuing professional education (CPE) credits (at least 30 CPEs required each year of the certification cycle) before the certification expires.
+
+HealthCare Information Security and Privacy Practitioner (HCISPP)
+The HealthCare Information Security and Privacy Practitioner (HCISPP) certification program is geared toward employees and consultants who maintain the security of healthcare information, a high-growth area today. With an HCISPP, you have demonstrated proficiency in implementing, managing or assessing controls and countermeasures that protect the privacy of medical data.
+
+To qualify for the HCISPP credential, you must:
+
+Have at least two years of experience in one of the HCISPP CBK domains that includes security, compliance and privacy; legal experience may substitute for compliance experience, and information management experience may substitute for privacy experience; one year of experience must be in the healthcare industry
+Achieve a minimum scaled score of 700 points on the certification exam
+Subscribe to the (ISC)2 Code of Ethics
+Complete an application endorsement form and have it endorsed by an (ISC)2 member
+The HCISPP credential incorporates the following CBK domains:
+
+Healthcare Industry
+Regulatory Environment
+Privacy and Security in Healthcare
+Information Governance and Risk Management
+Information Risk Assessment
+Third Party Risk Management
+The HCISPP credential must be renewed every three years by obtaining 60 continuing professional education (CPE) credits (20 CPE credits are required each year of the renewal cycle) before the certification expires. An annual maintenance fee is also required.
+
+Certified Cloud Security Professional (CCSP)
+The Certified Cloud Security Professional (CCSP) is supported by both (ISC)2 and the Cloud Security Alliance (CSA). The credential targets professionals working with cloud technology to ensure data is not only safe but that security risks are identified and mitigation strategies to address those risk are firmly in place. The credential is typically held by those with advanced skills, such as enterprise or security architect, security administrators or system engineers.
+
+To qualify for the CCSP credential you must:
+
+Possess a minimum of five years of full-time information technology experience; three years of which must be in information security and at least one year in one of the CBK CCSP domains
+The Cloud Security Alliance CCSK certificate may substitute for one year of domain experience
+(ISC)2 waives the entire experience requirement for those holding the CISSP credential
+Achieve a minimum scaled score of 700 points on the certification exam
+Subscribe to the (ISC)2 Code of Ethics
+Complete an application endorsement form and have it endorsed by an (ISC)2 member
+The CCSP credential incorporates the following CBK domains:
+
+Architectural Concepts and Design Requirements
+Cloud Data Security
+Cloud Platform and Infrastructure Security
+Cloud Application Security
+Operations
+Legal and Compliance
+The CCSP credential must be renewed every three years. To renew, candidates must obtain 90 continuing professional education (CPE) credits (30 CPE credits are required for each year of the renewal cycle) before the certification expires. An annual maintenance fee is also required.
+
+(ISC)2's Role In The Infosec Community
+(ISC)2's vision is to "inspire a safe and secure cyber world." The organization's mission supports its vision by emphasizing certification, access to resources and leadership.
+
+One of the ways (ISC)2 carries out its mission is through the (ISC)2 Security Congress, an annual event that revolves around education and networking opportunities for cyber security professionals. On a more ongoing basis, members are encouraged to share knowledge about security and engage in professional networking through participation in (ISC)2 chapters. You can find existing chapters sprinkled throughout the world, or (ISC)2 will help you start one in your area.
+
+Every year, (ISC)2 offers a number of leadership awards. The Government Information Security Leadership Awards (GISLAs) program is one example. The GISLA recognizes outstanding federal information security leaders and information security professionals that have contributed to "significant improvements in the security posture of a department, agency or the entire federal government." The Americas Information Security Leadership Awards (ISLA) program honors public or private security/management professionals who demonstrate outstanding leadership and achievements. Recipients are generally seasoned security workers with five or more years of experience in their field, although the Up-and-Coming Information Security Professional award goes to a "rising star" in the information security field.
+
+Related Jobs and Careers
+Because (ISC)2 is all about security, it's safe to assume that any job position that requires an (ISC)2 certification means the candidate is responsible for some facet of IT security, either wholly or in part.
+
+At the entry level, professionals with an SCCP typically work as network administrators, systems administrators, security specialists or security consultants. Those with a CISSP are most commonly hired as security analysts and security systems engineers. However, the CISSP is a broad certification with high experience requirements, so you can find CISSPs working as security managers, consultants, IT directors, chief information security officers (CISOs), auditors and network architects as well. Those who authorize systems and assess risk – which is a common combination within the DoD – should consider the CAP certification.
+
+Other (ISC)2 certifications are geared more narrowly toward specific security roles. For example, the CCSP recognizes security administrators, engineers and architects who design or maintain cloud environments, software developers who specialize in security should look toward the CSSLP, and digital forensic specialists are served well by achieving CCFP certification.
+
+(ISC)2 Training and Resources
+Each certification's web page includes an Exam Information section, which lists study tools for that particular certification. You'll find links to the exam outline, official (ISC)2 guide to the certification's CBK, training seminars, eLearning options and interactive flashcards. (ISC)2 delivers CBK training seminars in-classroom, live online, on-demand and private on-site, all of which are taught by approved (ISC)2 instructors.
+
+Many third parties also offer training courses and boot camps for (ISC)2 certification prep, some of which are high quality while others are not quite up to snuff. Research your options carefully if you opt for training that's not deemed "official" by (ISC)2.
