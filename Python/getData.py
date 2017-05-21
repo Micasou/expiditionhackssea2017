@@ -7,7 +7,7 @@ def getReportsForPersona(persona):
     datap = data[persona]
     reportsList = []
     for phrase in datap:
-       articleList = []
+        articleList = []
         for path in datap[phrase]['articles']:
             article = open(path, 'r')
             articleList.append(article)
