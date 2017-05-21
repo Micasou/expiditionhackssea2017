@@ -6,12 +6,14 @@ def getReportsForPersona(persona):
     data = json.loads(dataFile.read())
     datap = data[persona]
     reportsList = []
-    for phrase in datap:
-        articleList = []
-        for path in datap[phrase]['articles']:
-            article = open(path, 'r')
-            articleList.append(article)
-        if not articleList == []:
-            reportsList.extend(articleList)
-    return articleList
+    articleList = []
+    print "got to here!"
+    for path in datap['articles']:
+        article = open(path, 'r')
+        articleList.append(article)
+    print 'after for loop'
+    if not articleList == []:
+        reportsList.extend(articleList)
+    print 'return value', reportsList
+    return reportsList
 

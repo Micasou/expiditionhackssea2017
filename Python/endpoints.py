@@ -58,7 +58,6 @@ def add_persona(target):
 	print 'hello!'
 	persona = getReportsForPersona(personaTitles[target])
 
-	print persona.__dict__
 	# TODO: get actual feed
 
 	# TODO: return jsonify(feed = <actual feed>)

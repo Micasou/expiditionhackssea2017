@@ -1,68 +1,68 @@
 {
-    "ICE Director": {
-      "phrases": {
-        "Human Trafficing": [
-          "personal",
-          "animal",
-          "mortal",
-          "individual",
-          "anthropoid",
-          "Human",
-          "traffics in",
-          "traffic in",
-          "Trafficing"
-        ],
-        "Gang Violence": [
-          "clan",
-          "tribe",
-          "company",
-          "clique",
-          "crew",
-          "Gang",
-          "rampage",
-          "disturbance",
-          "brutality",
-          "clash",
-          "confusion",
-          "Violence"
-        ],
-        "Battle Tactics": [
-          "bloodshed",
-          "campaign",
-          "clash",
-          "combat",
-          "hostility",
-          "Battle",
-          "stratagem",
-          "campaign",
-          "move",
-          "course",
-          "defense",
-          "Tactics"
-        ],
-        "Construction Reports": [
-          "development",
-          "manufacture",
-          "system",
-          "planning",
-          "plan",
-          "Construction",
-          "information",
-          "picture",
-          "word",
-          "description",
-          "announcement",
-          "Reports"
-        ],
-        "Strategy": [
-          "planning",
-          "blueprint",
-          "scenario",
-          "game plan",
-          "system",
-          "Strategy"
-        ]
-      },
-      "articles": []
-    }
+  "ICE Director": {
+    "phrases": {
+      "Human Trafficing": [
+        "personal",
+        "animal",
+        "mortal",
+        "individual",
+        "anthropoid",
+        "Human",
+        "traffics in",
+        "traffic in",
+        "Trafficing"
+      ],
+      "Gang Violence": [
+        "clan",
+        "tribe",
+        "company",
+        "clique",
+        "crew",
+        "Gang",
+        "rampage",
+        "disturbance",
+        "brutality",
+        "clash",
+        "confusion",
+        "Violence"
+      ],
+      "Battle Tactics": [
+        "bloodshed",
+        "campaign",
+        "clash",
+        "combat",
+        "hostility",
+        "Battle",
+        "stratagem",
+        "campaign",
+        "move",
+        "course",
+        "defense",
+        "Tactics"
+      ],
+      "Construction Reports": [
+        "development",
+        "manufacture",
+        "system",
+        "planning",
+        "plan",
+        "Construction",
+        "information",
+        "picture",
+        "word",
+        "description",
+        "announcement",
+        "Reports"
+      ],
+      "Strategy": [
+        "planning",
+        "blueprint",
+        "scenario",
+        "game plan",
+        "system",
+        "Strategy"
+      ]
+    },
+    "articles": []
   }
+}
