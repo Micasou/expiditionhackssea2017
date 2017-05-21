@@ -1,6 +1,7 @@
 import os
 import persona
 import article
+import operator
 
 def generatePersonas():
     pesonaList = list()
@@ -22,6 +23,12 @@ def generatePersonas():
             line = f.readline()
     return pesonaList
 
+
+ 
+def isAscii(string):
+    return reduce(operator.and_, 
+    [ord(x) < 256 for x in string],True)
+
 def main():
     personas = generatePersonas()
     for subdir, dirs, files in os.walk("../dataset/articles/"):
@@ -33,6 +40,9 @@ def main():
                 with open(filepath) as myfile:
                     wholeText = myfile.read()
                     print wholeText
+                    for word in wholeText:
+                        if !isAscii(word):
+                            wholeText.replace(word, '')
                     arcl = article.article(wholeText, file)
                     for person in personas:
                         val = person.personaConsumer(arcl.tagList)
