@@ -36,5 +36,8 @@ class persona:
         matchCountDict = dict()
         for item in articleList:
             if (self.mappedPreference.get(item, "empty")!= "empty"):
-                matchCountDict[self.mappedPreference[syn]] += 1
-        return weighArticle(matchCountDict)
+                if (matchCountDict.get(item, "empty")!= "empty"):
+                    matchCountDict[self.mappedPreference[item]] += 1
+                else:
+                    matchCountDict[self.mappedPreference[item]] = 1
+        return self.weighArticle(matchCountDict)
