@@ -1,3 +1,4 @@
+
 class article:
     def __init__(self, articleText, articleName):
         self.dictionary = PyDictionary()
