@@ -1,4 +1,19 @@
 (() => {
+	function querify(obj) {
+		const list = [];
+		for (let key in obj) {
+			if (obj.hasOwnProperty(key)) {
+				list.push(`${key}=${obj[key]}`);
+			}
+		}
+
+		if (list.length > 0) {
+			return `?${list.join('&')}`;
+		} else {
+			return '';
+		}
+	}
+
 	function async(gfn) {
 		return function(...args) {
 			const gen = gfn.apply(this, args);
@@ -20,7 +35,7 @@
 		}
 	}
 
-	function post(endpoint, data) {
+	function post(endpoint, data = {}) {
 		return new Promise((win, fail) => {
 			const x = new XMLHttpRequest();
 
@@ -41,13 +56,34 @@
 		});
 	}
 
+	function get(endpoint, data = {}) {
+		return new Promise((win, fail) => {
+			const x = new XMLHttpRequest();
+			const query = querify(data);
+			x.onreadystatechange = () => {
+				if (x.readyState === 4) {
+
+					if (x.status === 200) {
+						win(JSON.parse(x.responseText));
+					} else {
+						fail(new Error(`HTTP request failed with error ${x.status}`));
+					}
+				}
+			}
+
+			x.open('GET', endpoint + querify(data), true);
+			x.setRequestHeader('Content-Type', "application/json");
+			x.send();
+		});
+	}
+
 	window.onload = function() {
+		const personaCount = 7;
 		const app = new Vue({
 			el: '#app',
 			data: {
-				page: 'create-persona',
-				persona: [{phrase: '', weight: 100}], // {phrase: <str>, weight: <int>}
-				feed: [], // {summary: <str>, full: <str>, score: <int>}
+				page: 0,
+				persona: null,
 				entry: -1,
 				showAll: true
 			},
@@ -58,10 +94,10 @@
 						weight: 100
 					});
 				},
-				implementPersona() {
-					post('/add_persona', this.persona[0])
-						.then(({feed}) => {
-							this.feed = feed;
+				editPersona() {
+					post('/edit_persona/' + i, this.persona[0])
+						.then(({persona}) => {
+							this.persona = persona;
 							this.entry = 0;
 						});
 				},
@@ -70,6 +106,17 @@
 						this.entry = (this.entry + 1) % this.feed.length;
 					} else
 						throw new Error('Ouch!')
+				},
+				loadPersona(i) {
+					if (0 <= i && i < 7) {
+						get('fetch_persona/' + i)
+							.then(({persona}) => {
+								this.persona = persona;
+							});
+					}
+				},
+				toggleViewType() {
+					this.showAll = !this.showAll;
 				}
 			}
 		});

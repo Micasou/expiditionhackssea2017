@@ -10,6 +10,11 @@
 
 	<body id="app">
 		<div class="page" v-if="entry === -1">
+			<ul class="personas">
+				<li v-for="n in 7" v-click="loadPersona($index)">
+					{{n}}
+				</li>
+			</ul>
 			<ul class="list-group">
 				<li class="list-group-item" v-for="example in persona">
 					<textarea class="form-control" v-model="example.phrase"></textarea>
@@ -31,6 +36,7 @@
 		</div>
 
 		<div class="page" v-if="!showAll && entry >= 0">
+			<div></div>
 			<div>
 				{{feed[entry].text}}
 			</div>

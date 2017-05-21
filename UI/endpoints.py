@@ -14,15 +14,37 @@ def default(path):
 
 # user sends persona
 # sends back an array of relevant articles
-@app.route('/add_persona', methods=['POST'])
+@app.route('/edit_persona', methods=['POST'])
 def add_persona():
-	json = request.json or {'phrase': '', 'weight': 0}
-	phrase, weight = json['phrase'], json['weight'] # use phrase and weight
+	json = request.json
 
+	# for each target use phrase and weight
+	target, phrase, weight = json['target'], json['phrase'], json['weight']
+	
 	# TODO: get actual feed
 
-	# TODO: return jsonniy(feed = <actual feed>)
+	# TODO: return jsonify(feed = <actual feed>)
 
+	# TODO: remove everything after this
+	return jsonify(feed = [{
+		'text': 10 * 'My insane text from ' + weight,
+		'title': 'Big Title'
+		} for i in xrange(0, 10)])
+
+# user sends persona
+# sends back an array of relevant articles
+@app.route('/edit_persona/<int:target>', methods=['POST'])
+def add_persona(target):
+	json = request.json
+
+	# for each target use phrase and weight
+	phrase, weight = json['phrase'], json['weight']
+	
+	# TODO: get actual feed
+
+	# TODO: return jsonify(feed = <actual feed>)
+
+	# TODO: remove everything after this
 	return jsonify(feed = [{
 		'text': 10 * 'My insane text from ' + weight,
 		'title': 'Big Title'
