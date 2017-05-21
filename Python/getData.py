@@ -1,7 +1,7 @@
 import json
 
 def getReportsForPersona(persona):
-    dataname = "data.txt"
+    dataname = "savedPersonas.json"
     dataFile = open(dataname, 'r')
     data = json.loads(dataFile.read())
     datap = data[persona]
