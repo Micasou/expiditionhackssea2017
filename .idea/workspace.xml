@@ -2,8 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af9ddf49-3884-48a7-bd7b-3667629b4329" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/article.py" afterPath="$PROJECT_DIR$/Python/article.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/persona.py" afterPath="$PROJECT_DIR$/Python/persona.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/centcom/centcom1" afterPath="$PROJECT_DIR$/dataset/articles/centcom/centcom1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/centcom/centcom3" afterPath="$PROJECT_DIR$/dataset/articles/centcom/centcom3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/centcom/centcom4" afterPath="$PROJECT_DIR$/dataset/articles/centcom/centcom4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/ice/ice2" afterPath="$PROJECT_DIR$/dataset/articles/ice/ice2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/ice/ice3" afterPath="$PROJECT_DIR$/dataset/articles/ice/ice3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/ice/ice4" afterPath="$PROJECT_DIR$/dataset/articles/ice/ice4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/korea/korea1" afterPath="$PROJECT_DIR$/dataset/articles/korea/korea1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/korea/korea2" afterPath="$PROJECT_DIR$/dataset/articles/korea/korea2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/korea/korea3" afterPath="$PROJECT_DIR$/dataset/articles/korea/korea3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/maritime/maritime1" afterPath="$PROJECT_DIR$/dataset/articles/maritime/maritime1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/maritime/maritime2" afterPath="$PROJECT_DIR$/dataset/articles/maritime/maritime2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/maritime/maritime3" afterPath="$PROJECT_DIR$/dataset/articles/maritime/maritime3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/maritime/maritime4" afterPath="$PROJECT_DIR$/dataset/articles/maritime/maritime4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/oasd/oasd2" afterPath="$PROJECT_DIR$/dataset/articles/oasd/oasd2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/oasd/oasd3" afterPath="$PROJECT_DIR$/dataset/articles/oasd/oasd3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/oasd/oasd4" afterPath="$PROJECT_DIR$/dataset/articles/oasd/oasd4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/syria/syria1" afterPath="$PROJECT_DIR$/dataset/articles/syria/syria1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/syria/syria2" afterPath="$PROJECT_DIR$/dataset/articles/syria/syria2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/syria/syria3" afterPath="$PROJECT_DIR$/dataset/articles/syria/syria3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/syria/syria4" afterPath="$PROJECT_DIR$/dataset/articles/syria/syria4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/wildfire/wildfire1" afterPath="$PROJECT_DIR$/dataset/articles/wildfire/wildfire1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/wildfire/wildfire2" afterPath="$PROJECT_DIR$/dataset/articles/wildfire/wildfire2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/wildfire/wildfire3" afterPath="$PROJECT_DIR$/dataset/articles/wildfire/wildfire3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/article12" afterPath="$PROJECT_DIR$/dataset/sample/article12" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/article13" afterPath="$PROJECT_DIR$/dataset/sample/article13" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/article2" afterPath="$PROJECT_DIR$/dataset/sample/article2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/article3" afterPath="$PROJECT_DIR$/dataset/sample/article3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/article7" afterPath="$PROJECT_DIR$/dataset/sample/article7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/centcom1" afterPath="$PROJECT_DIR$/dataset/sample/centcom1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/centcom3" afterPath="$PROJECT_DIR$/dataset/sample/centcom3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/centcom4" afterPath="$PROJECT_DIR$/dataset/sample/centcom4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/ice2" afterPath="$PROJECT_DIR$/dataset/sample/ice2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/ice3" afterPath="$PROJECT_DIR$/dataset/sample/ice3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/ice4" afterPath="$PROJECT_DIR$/dataset/sample/ice4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/korea1" afterPath="$PROJECT_DIR$/dataset/sample/korea1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/korea2" afterPath="$PROJECT_DIR$/dataset/sample/korea2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/korea3" afterPath="$PROJECT_DIR$/dataset/sample/korea3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/maritime1" afterPath="$PROJECT_DIR$/dataset/sample/maritime1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/maritime2" afterPath="$PROJECT_DIR$/dataset/sample/maritime2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/maritime3" afterPath="$PROJECT_DIR$/dataset/sample/maritime3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/maritime4" afterPath="$PROJECT_DIR$/dataset/sample/maritime4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/oasd2" afterPath="$PROJECT_DIR$/dataset/sample/oasd2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/oasd3" afterPath="$PROJECT_DIR$/dataset/sample/oasd3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/oasd4" afterPath="$PROJECT_DIR$/dataset/sample/oasd4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/syria1" afterPath="$PROJECT_DIR$/dataset/sample/syria1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/syria2" afterPath="$PROJECT_DIR$/dataset/sample/syria2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/syria3" afterPath="$PROJECT_DIR$/dataset/sample/syria3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/syria4" afterPath="$PROJECT_DIR$/dataset/sample/syria4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/wildfire1" afterPath="$PROJECT_DIR$/dataset/sample/wildfire1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/wildfire2" afterPath="$PROJECT_DIR$/dataset/sample/wildfire2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/wildfire3" afterPath="$PROJECT_DIR$/dataset/sample/wildfire3" />
     </list>
     <ignored path="expiditionhackssea2017.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,54 +75,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="persona.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="persona.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python/persona.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#44#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1036">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="article.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="article.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/article.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="personaSamples" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataset/personaSamples">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="6" column="41" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article1" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataset/articles/centcom/article1">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="personaInits.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python/personaInits.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-              <folding />
+            <state relative-caret-position="897">
+              <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#62#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +102,58 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="personaInits.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python/personaInits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="37" column="52" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="centcom1" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataset/articles/centcom/centcom1">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ice2" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataset/articles/ice/ice2">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="45" column="121" selection-start-line="45" selection-start-column="120" selection-end-line="45" selection-end-column="121" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="centcom3" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataset/articles/centcom/centcom3">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-375">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="centcom2" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataset/articles/centcom/centcom2">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -104,10 +177,13 @@
         <option value="$PROJECT_DIR$/Java/article.java" />
         <option value="$PROJECT_DIR$/Java/preferences.java" />
         <option value="$PROJECT_DIR$/Python/preferences.py" />
-        <option value="$PROJECT_DIR$/Python/personaInits.py" />
         <option value="$PROJECT_DIR$/dataset/personaSamples" />
-        <option value="$PROJECT_DIR$/Python/persona.py" />
         <option value="$PROJECT_DIR$/Python/article.py" />
+        <option value="$PROJECT_DIR$/dataset/articles/ice/ice2" />
+        <option value="$PROJECT_DIR$/dataset/articles/centcom/centcom1" />
+        <option value="$PROJECT_DIR$/dataset/articles/centcom/centcom3" />
+        <option value="$PROJECT_DIR$/Python/personaInits.py" />
+        <option value="$PROJECT_DIR$/Python/persona.py" />
       </list>
     </option>
   </component>
@@ -167,8 +243,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -198,24 +274,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dataset" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="expiditionhackssea2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="expiditionhackssea2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dataset" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="articles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -484,8 +542,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949457" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -505,7 +564,6 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -520,7 +578,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -528,342 +588,72 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1042">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/user.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/user.java" />
+    <entry file="file://$PROJECT_DIR$/Java/preferences.java" />
     <entry file="file://$PROJECT_DIR$/Python/article.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/user.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/user.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/user.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/main.java" />
+    <entry file="file://$PROJECT_DIR$/Java/article.java" />
+    <entry file="file://$PROJECT_DIR$/Java/user.java" />
+    <entry file="file://$PROJECT_DIR$/Java/preferences.java" />
+    <entry file="file://$PROJECT_DIR$/Java/main.java" />
+    <entry file="file://$PROJECT_DIR$/Java/user.java" />
+    <entry file="file://$PROJECT_DIR$/Java/article.java" />
+    <entry file="file://$PROJECT_DIR$/Java/preferences.java" />
+    <entry file="file://$PROJECT_DIR$/Java/main.java" />
+    <entry file="file://$PROJECT_DIR$/Java/user.java" />
     <entry file="file://$PROJECT_DIR$/Python/article.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Java/preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/user.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/user.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/preferences.java" />
+    <entry file="file://$PROJECT_DIR$/Java/article.java" />
+    <entry file="file://$PROJECT_DIR$/Java/main.java" />
+    <entry file="file://$PROJECT_DIR$/Java/user.java" />
+    <entry file="file://$PROJECT_DIR$/Java/article.java" />
+    <entry file="file://$PROJECT_DIR$/Java/preferences.java" />
+    <entry file="file://$PROJECT_DIR$/Java/main.java" />
+    <entry file="file://$PROJECT_DIR$/Java/article.java" />
+    <entry file="file://$PROJECT_DIR$/Java/user.java" />
+    <entry file="file://$PROJECT_DIR$/Java/preferences.java" />
     <entry file="file://$PROJECT_DIR$/Python/article.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/user.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/user.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/preferences.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/user.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/preferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataset/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/main.java" />
+    <entry file="file://$PROJECT_DIR$/Java/article.java" />
+    <entry file="file://$PROJECT_DIR$/Java/user.java" />
+    <entry file="file://$PROJECT_DIR$/Java/preferences.java" />
+    <entry file="file://$PROJECT_DIR$/Java/main.java" />
+    <entry file="file://$PROJECT_DIR$/Java/user.java" />
+    <entry file="file://$PROJECT_DIR$/Java/article.java" />
+    <entry file="file://$PROJECT_DIR$/Java/preferences.java" />
+    <entry file="file://$PROJECT_DIR$/Java/article.java" />
+    <entry file="file://$PROJECT_DIR$/Python/preferences.py" />
+    <entry file="file://$PROJECT_DIR$/Java/user.java" />
+    <entry file="file://$PROJECT_DIR$/Java/main.java" />
+    <entry file="file://$PROJECT_DIR$/Java/preferences.java" />
+    <entry file="file://$PROJECT_DIR$/dataset/test.txt" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -872,31 +662,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataset/article1">
+    <entry file="file://$PROJECT_DIR$/dataset/article1" />
+    <entry file="file://$PROJECT_DIR$/dataset/article2" />
+    <entry file="file://$PROJECT_DIR$/dataset/articles/centcom/article1" />
+    <entry file="file://$PROJECT_DIR$/dataset/personaSamples" />
+    <entry file="file://$PROJECT_DIR$/dataset/articles/centcom/centcom2">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataset/article2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python/personaInits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataset/articles/centcom/article1">
+    <entry file="file://$PROJECT_DIR$/dataset/articles/centcom/centcom1">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -904,28 +682,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataset/personaSamples">
+    <entry file="file://$PROJECT_DIR$/dataset/articles/ice/ice2">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="41" />
+        <state relative-caret-position="489">
+          <caret line="45" column="121" selection-start-line="45" selection-start-column="120" selection-end-line="45" selection-end-column="121" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/persona.py">
+    <entry file="file://$PROJECT_DIR$/dataset/articles/centcom/centcom3">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-375">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python/article.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="897">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/personaInits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="37" column="52" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/persona.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1036">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
           <folding />
         </state>
       </provider>
