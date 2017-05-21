@@ -1,3 +1,6 @@
+from PyDictionary import PyDictionary#pip install PyDictionary
+from textblob import TextBlob
+
 class article:
     def __init__(self, articleText, articleName):
         self.dictionary = PyDictionary()

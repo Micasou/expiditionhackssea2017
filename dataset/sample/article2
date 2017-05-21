@@ -4,16 +4,16 @@ For many businesses, accessing files away from the office is simply the way thei
 
 More access can be dangerous
 
-While having remote access to company files and information gives you flexibility, it can also make you vulnerable to cyberattacks — and cyberattacks are on the rise. Symantec reports a steady rise in attacks on businesses with less than 250 employees, and in its 2016 Internet Security Threat Report, it says that 1 in 40 small business are at risk of attack each year, compared to one in two large businesses.
+While having remote access to company files and information gives you flexibility, it can also make you vulnerable to cyberattacks - and cyberattacks are on the rise. Symantec reports a steady rise in attacks on businesses with less than 250 employees, and in its 2016 Internet Security Threat Report, it says that 1 in 40 small business are at risk of attack each year, compared to one in two large businesses.
 
-Smaller businesses typically have fewer defense resources than large enterprises, making them an attractive target for hackers. Cybercriminals, looking for a way into a large organization, often attack a small business partner, believing that its defenses won't be as strong. And they are often right. Hackers accessed Target’s network by stealing a vendor's credentials.
+Smaller businesses typically have fewer defense resources than large enterprises, making them an attractive target for hackers. Cybercriminals, looking for a way into a large organization, often attack a small business partner, believing that its defenses won't be as strong. And they are often right. Hackers accessed Target's network by stealing a vendor's credentials.
 
 
 Ways to secure access
 
 Network and other types of cyberattacks are very familiar to Bill Wade, owner of an infrastructure consulting and content development service for security and cloud services. "We've had as many as 27 log-in attempts by bots in just one minute to our network," he explains.
 
-Securing remote access involves two areas of network security — data encryption and secure network access. Encrypting data packets as they travel from one location to another ensures that hackers won't be able to access the data even if they retrieve the packets.
+Securing remote access involves two areas of network security - data encryption and secure network access. Encrypting data packets as they travel from one location to another ensures that hackers won't be able to access the data even if they retrieve the packets.
 
 The other area is network access. Network access is controlled by credentials, a combination of username and password. "On our network, and everyone else's, bots are constantly trying to guess credentials using common usernames and passwords," says Wade. "That's why username and password policies are so important."
 
