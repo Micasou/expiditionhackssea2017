@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af9ddf49-3884-48a7-bd7b-3667629b4329" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/article.py" afterPath="$PROJECT_DIR$/Python/article.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/persona.py" afterPath="$PROJECT_DIR$/Python/persona.py" />
     </list>
     <ignored path="expiditionhackssea2017.iws" />
@@ -23,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="persona.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="persona.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/persona.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="217">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
               </folding>
@@ -35,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="article.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="article.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python/article.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+            <state relative-caret-position="576">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -103,10 +104,10 @@
         <option value="$PROJECT_DIR$/Java/article.java" />
         <option value="$PROJECT_DIR$/Java/preferences.java" />
         <option value="$PROJECT_DIR$/Python/preferences.py" />
-        <option value="$PROJECT_DIR$/Python/article.py" />
         <option value="$PROJECT_DIR$/Python/personaInits.py" />
         <option value="$PROJECT_DIR$/dataset/personaSamples" />
         <option value="$PROJECT_DIR$/Python/persona.py" />
+        <option value="$PROJECT_DIR$/Python/article.py" />
       </list>
     </option>
   </component>
@@ -911,21 +912,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/article.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python/persona.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="217">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding>
             <element signature="e#0#44#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/article.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>

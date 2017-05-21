@@ -11,7 +11,6 @@ class article:
 
     def getTimeStamp(articleText):
         print("TODO finish")
-        
 
     def estimateRelevance(self, persona):
         currentRelevance=0.0
@@ -20,8 +19,6 @@ class article:
 
     def getSummary(self, articleText):
         return self.articleSource[0:50]
-
-
 
     def getTags(self, articleText):
         for np in self.articleSource.noun_phrases:
