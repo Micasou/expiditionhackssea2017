@@ -1,4 +1,14 @@
 (() => {
+	const {floor, random} = Math;
+
+	function randomColor() {
+		const whiten = 155;
+		const main = [0, 0, 0]
+			.map(c => floor(random() * (256 - whiten) + whiten))
+			.join(',')
+		return `rgb(${main})`;
+	}
+
 	function querify(obj) {
 		const list = [];
 		for (let key in obj) {
@@ -81,6 +91,15 @@
 		const app = new Vue({
 			el: '#app',
 			data: {
+				personaTitles: [
+					"ICE Director",
+					"Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs (ASD(NCB))",
+					"North Korea policy group",
+					"Director; maritime security operations",
+					"Director; wildfire division",
+					"mission director; syria",
+					"centCOM j2"
+				],
 				page: 0,
 				persona: null,
 				entry: -1,
@@ -109,18 +128,18 @@
 						throw new Error('Ouch!')
 				},
 				loadPersona(i) {
-					console.log('load persona')
 					if (0 <= i && i < 7) {
 						get('fetch_persona/' + i)
 							.then(({persona}) => {
 								console.log(persona);
-								this.persona = {index: i, articles: persona};
+								this.persona = persona;
 							});
 					}
 				},
 				toggleViewType() {
 					this.showAll = !this.showAll;
-				}
+				},
+				randomColor
 			}
 		});
 	}

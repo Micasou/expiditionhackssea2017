@@ -11,8 +11,8 @@
 	<body id="app">
 		<div class="page" v-if="page === 0 && entry === -1">
 			<ul class="personas">
-				<li v-for="n in 7" v-on:click="loadPersona($index)">
-					{{n}}
+				<li v-for="title in personaTitles" v-on:click="loadPersona($index)">
+					{{title}}
 				</li>
 			</ul>
 		</div>
@@ -29,17 +29,18 @@
 		</div>
 
 		<div class="page" v-if="showAll">
+			<h4 v-if="persona.phrases.length > 0">Phrases</h4>
 			<ul class="phrases">
 				<li v-for="phrase in persona.phrases">{{phrase}}</li>
 			</ul>
 
-			<ul>
-				<li v-for="entry in persona.articles">
+			<ul class="articles">
+				<li v-for="entry in persona.articles" style="background-color: {{randomColor()}}">
 					<h3>{{entry.title}}</h3>
 
 					<p>{{entry.text}}</p>
 
-					<span>{{$index + 1}}</span>
+					<span style="color: #333">{{$index + 1}}</span>
 				</li>
 			</ul>
 		</div>

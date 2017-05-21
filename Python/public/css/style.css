@@ -11,8 +11,16 @@ h3 {
 	text-align: center;
 }
 
+h4 {
+	margin-left: 50px;
+}
+
 ul {
 	list-style-type: none;
+}
+
+ul.phrases li {
+	margin-left: 10px;
 }
 
 ul.personas li {
@@ -22,3 +30,11 @@ ul.personas li {
 	border: 1px solid black;
 	border-radius: 5px;
 }
+
+ul.articles li {
+	margin: 5px; 
+	margin-left: 10px;
+	padding: 5px;
+	border-radius: 5px;
+}
+
