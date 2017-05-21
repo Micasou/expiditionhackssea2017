@@ -45,7 +45,7 @@ North Korea launched an intermediate-range ballistic missile on Sunday, and the 
 
 An experiment led by Kyle Dropp of Morning Consult from April 27-29, conducted at the request of The New York Times, shows that respondents who could correctly identify North Korea tended to view diplomatic and nonmilitary strategies more favorably than those who could not. These strategies included imposing further economic sanctions, increasing pressure on China to influence North Korea and conducting cyberattacks against military targets in North Korea.
 
-They also viewed direct military engagement – in particular, sending ground troops – much less favorably than those who failed to locate North Korea.
+They also viewed direct military engagement - in particular, sending ground troops - much less favorably than those who failed to locate North Korea.
 
 The largest difference between the groups was the simplest: Those who could find North Korea were much more likely to disagree with the proposition that the United States should do nothing about North Korea.
 
@@ -54,14 +54,14 @@ Economic sanctions	+59	+49
 Increasing pressure on China	+63	+48
 Cyberattacks against military targets	+37	+18
 Military action	+5	+9
-Conducting airstrikes	–1	+3
-Sending arms and supplies	–12	–13
-Sending ground troops	–34	–19
-Doing nothing	–45	–22
+Conducting airstrikes	-1	+3
+Sending arms and supplies	-12	-13
+Sending ground troops	-34	-19
+Doing nothing	-45	-22
 Large differences are shown in bold. Net support is a measure showing the percent of respondents who supported a policy minus the percent who said they did not support it.
-What drives these differences? Simple partisanship is one possibility. On average, Republicans – and Republican men in particular – were more likely to correctly locate North Korea than Democratic men. And Republicans were more likely to be in favor of almost all the diplomatic solutions posed by the researchers. (Women tended to find North Korea at similar rates, regardless of party.)
+What drives these differences? Simple partisanship is one possibility. On average, Republicans - and Republican men in particular - were more likely to correctly locate North Korea than Democratic men. And Republicans were more likely to be in favor of almost all the diplomatic solutions posed by the researchers. (Women tended to find North Korea at similar rates, regardless of party.)
 
-Geographic knowledge itself may contribute to an increased appreciation of the complexity of geopolitical events. This finding is consistent with – though not identical to – a similar experiment Mr. Dropp, Joshua D. Kertzer and Thomas Zeitzoff conducted in 2014. They asked Americans to identify Ukraine on a map and asked them whether they supported military intervention. The farther a respondent's guess was from Ukraine, the researchers found, the more likely he or she was to favor military intervention.
+Geographic knowledge itself may contribute to an increased appreciation of the complexity of geopolitical events. This finding is consistent with - though not identical to - a similar experiment Mr. Dropp, Joshua D. Kertzer and Thomas Zeitzoff conducted in 2014. They asked Americans to identify Ukraine on a map and asked them whether they supported military intervention. The farther a respondent's guess was from Ukraine, the researchers found, the more likely he or she was to favor military intervention.
 
 Which groups were most successful
 
