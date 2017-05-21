@@ -63,6 +63,6 @@
         "Strategy"
       ]
     },
-    "articles": []
+    "articles": ["sample/article1", "sample/article10"]
   }
 }
