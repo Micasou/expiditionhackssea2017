@@ -1,0 +1,24 @@
+
+.list-group-item > textarea, .list-group-item > input {
+	width: 48%;
+	margin: 10px;
+	margin-top: 0px;
+	vertical-align: top;
+	display: inline-block;
+}
+
+h3 {
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul.personas li {
+	display: inline-block;
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid black;
+	border-radius: 5px;
+}

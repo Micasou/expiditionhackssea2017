@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Select Keywords</title>
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script type="text/javascript" src="js/vue.min.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+	</head>
+
+	<body id="app">
+		<div class="page" v-if="page === 0 && entry === -1">
+			<ul class="personas">
+				<li v-for="n in 7" v-on:click="loadPersona($index)">
+					{{n}}
+				</li>
+			</ul>
+		</div>
+
+		<div class="page" v-if="!showAll && entry >= 0">
+			<div></div>
+			<div>
+				{{feed[entry].text}}
+			</div>
+			<div>
+				<span>{{entry + 1}} / {{feed.length}}</span>
+				<div style="display: block; float: right;" class="glyphicon-chevron-right"></div>
+			</div>
+		</div>
+
+		<div class="page" v-if="showAll && entry >= 0">
+			<ul>
+				<li v-for="entry in persona.articles">
+					<h3>{{entry.title}}</h3>
+
+					<p>{{entry.text}}</p>
+
+					<span>{{$index + 1}}</span>
+				</li>
+			</ul>
+		</div>
+	</body>
+</html>
