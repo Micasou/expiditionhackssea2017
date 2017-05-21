@@ -36,8 +36,20 @@ def main():
                     arcl = article.article(wholeText, file)
                     for person in personas:
                         val = person.personaConsumer(arcl.tagList)
-                        if val == 1:
-                            person.articles.append(arcl)
+                        if __name__ == '__main__':
+                            if __name__ == '__main__':
+                                if __name__ == '__main__':
+                                    if __name__ == '__main__':
+                                        if __name__ == '__main__':
+                                            if val == 1:
+                                                person.articles.append(arcl)
+       # TODO once this loop finishes we will have a list of personas with data attached to them
+       # TODO We need to store this data in a file, text, csv, doesnt matter, so that we can reduce processing time.
+       # TODO Look at def generatePersonas function, you can basically do the same thing. but you also write to a file
+       # TODO we also need to store articles so when we add a new user we can quickly query for what they would want in their feed
+       # TODO The reading and writing should be a function of the front end using the data we've processed.
+
+
 
 if __name__ == "__main__":
     main()

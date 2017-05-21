@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af9ddf49-3884-48a7-bd7b-3667629b4329" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/persona.py" afterPath="$PROJECT_DIR$/Python/persona.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/personaInits.py" afterPath="$PROJECT_DIR$/Python/personaInits.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/ice/ice2" afterPath="$PROJECT_DIR$/dataset/articles/ice/ice2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/maritime/maritime2" afterPath="$PROJECT_DIR$/dataset/articles/maritime/maritime2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/maritime/maritime3" afterPath="$PROJECT_DIR$/dataset/articles/maritime/maritime3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/oasd/oasd3" afterPath="$PROJECT_DIR$/dataset/articles/oasd/oasd3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/article3" afterPath="$PROJECT_DIR$/dataset/sample/article3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/articles/ice/ice3" afterPath="$PROJECT_DIR$/dataset/articles/ice/ice3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/ice2" afterPath="$PROJECT_DIR$/dataset/sample/ice2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/maritime2" afterPath="$PROJECT_DIR$/dataset/sample/maritime2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/maritime3" afterPath="$PROJECT_DIR$/dataset/sample/maritime3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/oasd3" afterPath="$PROJECT_DIR$/dataset/sample/oasd3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/sample/ice3" afterPath="$PROJECT_DIR$/dataset/sample/ice3" />
     </list>
     <ignored path="expiditionhackssea2017.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +30,8 @@
       <file leaf-file-name="persona.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/persona.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="796">
-              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+            <state relative-caret-position="508">
+              <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -53,23 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="article.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="article.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python/article.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="897">
-              <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="48">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -78,8 +60,8 @@
       <file leaf-file-name="personaInits.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/personaInits.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1776">
-              <caret line="37" column="52" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="52" />
+            <state relative-caret-position="1392">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -97,11 +79,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ice2" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ice2" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataset/articles/ice/ice2">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="59" column="97" selection-start-line="59" selection-start-column="97" selection-end-line="59" selection-end-column="97" />
+            <state relative-caret-position="1344">
+              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ice3" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataset/articles/ice/ice3">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="6" column="142" selection-start-line="6" selection-start-column="142" selection-end-line="6" selection-end-column="142" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ice4" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataset/articles/ice/ice4">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -146,12 +148,13 @@
         <option value="$PROJECT_DIR$/Java/preferences.java" />
         <option value="$PROJECT_DIR$/Python/preferences.py" />
         <option value="$PROJECT_DIR$/dataset/personaSamples" />
-        <option value="$PROJECT_DIR$/Python/article.py" />
         <option value="$PROJECT_DIR$/dataset/articles/centcom/centcom1" />
         <option value="$PROJECT_DIR$/dataset/articles/centcom/centcom3" />
-        <option value="$PROJECT_DIR$/Python/personaInits.py" />
         <option value="$PROJECT_DIR$/Python/persona.py" />
         <option value="$PROJECT_DIR$/dataset/articles/ice/ice2" />
+        <option value="$PROJECT_DIR$/dataset/articles/ice/ice3" />
+        <option value="$PROJECT_DIR$/Python/personaInits.py" />
+        <option value="$PROJECT_DIR$/Python/article.py" />
       </list>
     </option>
   </component>
@@ -242,6 +245,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dataset" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expiditionhackssea2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expiditionhackssea2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expiditionhackssea2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expiditionhackssea2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -556,17 +599,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/preferences.java" />
-    <entry file="file://$PROJECT_DIR$/Python/article.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/main.java" />
     <entry file="file://$PROJECT_DIR$/Java/article.java" />
     <entry file="file://$PROJECT_DIR$/Java/user.java" />
@@ -581,9 +613,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -601,9 +631,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -657,30 +685,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/article.py">
+    <entry file="file://$PROJECT_DIR$/dataset/articles/ice/ice3">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="288">
+          <caret line="6" column="142" selection-start-line="6" selection-start-column="142" selection-end-line="6" selection-end-column="142" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/personaInits.py">
+    <entry file="file://$PROJECT_DIR$/dataset/articles/ice/ice4">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1776">
-          <caret line="37" column="52" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="672">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/persona.py">
+    <entry file="file://$PROJECT_DIR$/dataset/articles/ice/ice2">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+        <state relative-caret-position="1344">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -693,10 +717,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataset/articles/ice/ice2">
+    <entry file="file://$PROJECT_DIR$/Python/persona.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="59" column="97" selection-start-line="59" selection-start-column="97" selection-end-line="59" selection-end-column="97" />
+        <state relative-caret-position="508">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/personaInits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/article.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="29" />
           <folding />
         </state>
       </provider>
