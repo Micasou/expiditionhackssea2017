@@ -1,7 +1,7 @@
 import json
 
 def getReportsForPersona(persona):
-    dataname = "savedPersonas.json"
+    dataname = "../dataset/personaSamples.json"
     dataFile = open(dataname, 'r')
     data = json.loads(dataFile.read())
     datap = data[persona]
