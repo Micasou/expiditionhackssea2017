@@ -28,7 +28,11 @@
 			</div>
 		</div>
 
-		<div class="page" v-if="showAll && entry >= 0">
+		<div class="page" v-if="showAll">
+			<ul class="phrases">
+				<li v-for="phrase in persona.phrases">{{phrase}}</li>
+			</ul>
+
 			<ul>
 				<li v-for="entry in persona.articles">
 					<h3>{{entry.title}}</h3>

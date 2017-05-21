@@ -114,7 +114,7 @@
 						get('fetch_persona/' + i)
 							.then(({persona}) => {
 								console.log(persona);
-								this.persona = persona;
+								this.persona = {index: i, articles: persona};
 							});
 					}
 				},
