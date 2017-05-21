@@ -16,26 +16,25 @@ class persona:
             self.articles.append(theArticle)
     def createMappedPreference(self):
         for key in self.preference:
-            print "DA KEY IS: " + key
+            #print "DA KEY IS: " + key
             words = key.split()
-            print words[0]
+            #print words[0]
             for word in words:
-                print "Our word is: " + word
+                #print "Our word is: " + word
                 synonymList = self.dictionary.synonym(word)
                 if isinstance(synonymList, list):
                     synonymList.append(word)
                     for syn in synonymList:
                         self.mappedPreference[syn] = key
-                        print "New key: " + syn
+                        #print "New key: " + syn
     def personaConsumer(self, articleList):
         matchCountDict = dict()
         for item in articleList:
-            synonymList = list()
-            synonymList += self.dictionary.synonym(item)
-            synonymList.append(item)
-            for syn in synonymList:
-                if (self.mappedPreference[syn] != null):
-                    matchCountDict[self.mappedPreference[syn]] += 1
+            if (self.mappedPreference.get(item, "empty")!= "empty"):
+                matchCountDict[self.mappedPreference[syn]] += 1
         return weighArticle(matchCountDict)
     def weighArticle(self, countMap):
-        print "TODO"
+        print "TODO improve and use weight relevance to generate the rating."
+        if len(countMap) > 0:
+            return 1
+        return 0
